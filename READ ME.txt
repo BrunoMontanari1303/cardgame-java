@@ -1,0 +1,39 @@
+READ ME:
+Este é um jogo de cartas TCG (Trading Card Game) desenvolvido em Java, utilizando Swing para interface gráfica e SQLite como banco de dados. O projeto inclui um editor de cartas, montagem de baralhos personalizados e partidas entre dois jogadores.
+
+Funcionalidades
+-Editor de Cartas (Criar, editar, excluir e pesquisar cartas no banco)
+-Montador de Baralho (Cada jogador escolhe de 10 a 20 cartas)
+-Tela de Partida (Combate entre dois jogadores por turnos)
+-Sistema de turnos, ataque, equipamentos e condições de vitória
+-Dados armazenados em banco SQLite
+
+Como executar a aplicação
+ Pré-requisitos: 
+-Java JDK versão 8 ou superior instalado
+-Um ambiente de desenvolvimento como Eclipse, IntelliJ IDEA, NetBeans ou execução via terminal
+
+Organização dos arquivos:
+-Pasta /src: contém todo o código-fonte Java
+-Pasta /img (ou /resources): contém imagens e ícones utilizados na interface
+-Arquivo do banco: cartas.db (gerado automaticamente ou incluso na raiz)
+
+Passos para executar:
+-Importe o projeto como um projeto Java.
+-Adicione o driver SQLite (sqlite-jdbc.jar) como biblioteca.
+-Clique com o botão direito no arquivo MenuPrincipal.java e execute como Java Application.
+
+Interface Gráfica:
+-Criada com Java Swing
+-Estilo visual customizado com Look and Feel
+-Ícones personalizados para janelas
+
+Banco de Dados:
+-Utiliza SQLite para persistência das cartas
+-O banco é criado automaticamente no primeiro uso
+-Arquivo cartas.db fica salvo na raiz do projeto
+
+Dependências:
+-Biblioteca sqlite-jdbc.jar (driver JDBC do SQLite)
+
+

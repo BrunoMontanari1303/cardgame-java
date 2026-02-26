@@ -1,0 +1,57 @@
+Regras Jogo de Cartas:
+
+1 - Jogadores: O jogo é disputado por dois jogadores, que alternam turnos.
+
+2 - Início da Partida: No começo de cada partida, ambos os jogadores compram uma quantidade predefinida de cartas.
+
+3 - Compra de Cartas: No início de cada turno, o jogador da vez compra uma carta.
+
+4 - Ações no Turno: Durante o seu turno, o jogador pode:
+
+Colocar uma unidade no campo de batalha;
+Atribuir um armamento a uma unidade;
+Atacar com suas unidades;
+Visualizar o campo de batalha;
+Encerrar o turno.
+
+5- Vida dos Jogadores: Cada jogador começa com uma quantidade predefinida de pontos de vida.
+
+6 - Baralho: Cada jogador possui um baralho próprio, podendo ter até 20 cartas em seu baralho.
+
+7 - Mão de Cartas: Cada jogador possui uma "mão", onde ficam as cartas que podem ser usadas no momento. O número de cartas na mão depende da quantidade comprada durante o jogo.
+
+8 - Campo de Batalha: Cada jogador tem um campo onde coloca suas unidades ativas. O campo tem um limite de unidades que podem estar ativas ao mesmo tempo.
+
+9 - Limitação de Unidades: Se o campo estiver cheio, o jogador não pode colocar mais unidades no campo até que uma unidade seja removida.
+
+10 - Tipos de Cartas:
+
+Unidades: Cartas de unidades possuem valores de ataque e defesa e podem ser colocadas no campo de batalha;
+Armamentos: Cartas de armamentos conferem bônus de ataque para as unidades, mas são consumidas após serem atribuídas a uma unidade ativa.
+
+11 - Colocação de Unidades: As unidades podem ser convocadas do baralho para o campo de batalha, sendo retiradas da mão do jogador.
+
+12 - Ataques:
+
+Cada unidade pode atacar uma vez por turno;
+O ataque é resolvido pela comparação entre o valor de ataque da unidade atacante e o valor de defesa da unidade defendente. A diferença entre os valores resulta em dano à vida do jogador que perder o combate;
+Quando uma unidade perde o combate, ela é removida do campo. Se ocorrer empate, ambas as unidades são removidas.
+
+13 - Armamentos:
+
+Armamentos só podem ser atribuídos a unidades já ativas no campo;
+Uma vez atribuídos, os armamentos são consumidos e não podem ser removidos ou reutilizados.
+
+14 - Limitações de Ações:
+
+Cada jogador só pode convocar uma unidade e atribuir um armamento por turno;
+Visualização do Campo: O jogador pode ver o campo de batalha a qualquer momento durante seu turno;
+Encerramento de Turno: O jogador é responsável por encerrar seu próprio turno quando desejar.
+
+15 - Condição de Vitória e Término: O jogo termina quando:
+
+Um dos jogadores perde toda a sua vida;
+Um jogador não consegue comprar uma carta no início de seu turno porque seu baralho está vazio.
+
+
+

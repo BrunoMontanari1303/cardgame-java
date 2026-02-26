@@ -1,0 +1,19 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# IDE files
+.project
+.classpath
+.settings/
+
+# OS files
+desktop.ini
+.DS_Store
+
+# Build folders
+bin/
+out/
+target/

@@ -1,0 +1,9 @@
+Descrição das telas:
+
+Menu Principal: Menu onde é possível transitar entre as telas do programa utilizando botões;
+Criador de Cartas: Tela onde o usuário pode criar as próprias cartas, podendo escolher entre Unidade ou Armamento, em ambos terá que digitar o nome da carta e caso seja Unidade, digitar o valor de ATK e DEF, em caso de Armamento, apenas o Bônus que ele adiciona;
+Lista de Cartas: Tela onde é exibida todas as cartas que já foram criadas pelos usuários, onde é possível pesquisa-las, edita-las ou excluí-las;
+Montagem de Baralhos: Tela onde os dois jogadores escolhem entre as cartas criadas para adicionarem ao próprio baralho antes do inicio da partida;
+Tela de Partida: Tela onde a partida entre os dois jogadores ocorre;
+
+Em todas as telas existe o botão de voltar ao Menu Principal.
