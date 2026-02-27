@@ -29,6 +29,7 @@ O projeto utiliza arquitetura MVC, persistência com SQLite e interface gráfica
 O projeto segue o padrão MVC (Model-View-Controller):
 
 src/
+
 ├── model/ → Classes de domínio (Carta, Unidade, Armamento, Jogador)
 
 ├── view/  → Interfaces gráficas (Swing)
@@ -93,4 +94,5 @@ Conceitos Aplicados:
 
 
 * Interface gráfica com Swing
+
 
