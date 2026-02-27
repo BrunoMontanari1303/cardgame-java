@@ -30,8 +30,11 @@ O projeto segue o padrão MVC (Model-View-Controller):
 
 src/
 ├── model/ → Classes de domínio (Carta, Unidade, Armamento, Jogador)
+
 ├── view/  → Interfaces gráficas (Swing)
+
 └── controller/ → Regras de negócio e acesso ao banco (DAO)
+
 
 Model: Representa as entidades do sistema.
 
@@ -90,3 +93,4 @@ Conceitos Aplicados:
 
 
 * Interface gráfica com Swing
+
