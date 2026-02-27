@@ -29,9 +29,9 @@ O projeto utiliza arquitetura MVC, persistência com SQLite e interface gráfica
 O projeto segue o padrão MVC (Model-View-Controller):
 
 src/
-├── model/       → Classes de domínio (Carta, Unidade, Armamento, Jogador)
-├── view/        → Interfaces gráficas (Swing)
-└── controller/  → Regras de negócio e acesso ao banco (DAO)
+├── model/ → Classes de domínio (Carta, Unidade, Armamento, Jogador)
+├── view/  → Interfaces gráficas (Swing)
+└── controller/ → Regras de negócio e acesso ao banco (DAO)
 
 Model: Representa as entidades do sistema.
 
@@ -87,5 +87,6 @@ Conceitos Aplicados:
 * JDBC
 
 * Persistência de dados
+
 
 * Interface gráfica com Swing
